@@ -25,6 +25,10 @@
  .header_icon{ 
     display:flex;
     align-items: center;
+    margin: right 6px; ;
+ }
+ .header_right{
+    display: flex;
  }
  .header_input > input{
     flex:1;

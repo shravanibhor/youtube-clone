@@ -24,9 +24,9 @@ function header() {
       </div>
 
       <div className='header_right'>
-      <VideocallIcon/>
-      <AppIcon/>
-      <NotificationIcon/>
+      <VideocallIcon className='header_icon'/>
+      <AppIcon className='header_icon'/>
+      <NotificationIcon className='header_icon'/>
       <Avatar alt="Shravani" src="https://imagetolink.com/ib/JS4k23RFvx"/>
       </div>
 
